@@ -1,2 +1,3 @@
 # Space-war-Game
-The space war game is one of my projects I created using functional programming in Dr racket syntax. I used Big-bang library to update the state of the world in each time frame.  The players fire missiles at one another, the missile is a laser that is represented geometrically by a line. 
+I built a two-player Spacewar game using functional programming(Dr racket) and the Big-bang library to update game state in real time
+Implemented player-controlled ships that fire laser missiles, represented geometrically as lines. 
